@@ -1,0 +1,10 @@
+-have a folder named "Player databases" in the same directory as the source code.
+-have a folder named "battle_files" in the same directory as the source code.
+(Actually, when I think about it, I guess you don't need to do any of thsoe things
+ as I would be uploading the entire folder. But, ok, maybe if that's not the case,
+ those instructions will become useful)
+
+*************IMPORTANT***************
+*DO NOT CHANGE THE "TOKEN" VARIABLE!*
+*************IMPORTANT***************
+The code won't run if you do that!
